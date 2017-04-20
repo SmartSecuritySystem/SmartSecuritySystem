@@ -29,7 +29,7 @@
         signal=0;
 
      }
-   struct
+  
 
 
 
@@ -49,12 +49,6 @@ void main() {
 
     delay_ms(100);
                   }
-
-
-
-
-
-
 
 
 

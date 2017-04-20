@@ -28,16 +28,6 @@ void main() {
    
     while(1){
 
-    while(!HID_Read())  ;
-
-
-
-
-
-
-
-
-     while(!HID_Write(&writebuffer,64)) ;
 
 
     }
